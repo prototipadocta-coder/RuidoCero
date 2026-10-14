@@ -1,0 +1,6 @@
+{
+  "name": "RuidoCero - Plataforma Contra la Contaminación Auditiva",
+  "description": "Landing page interactiva para concientizar, educar y actuar contra la contaminación acústica y proteger la salud auditiva comunitaria.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
